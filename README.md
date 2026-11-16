@@ -1,7 +1,7 @@
 # Dan Ichimescu
 
 **Graphic designer who automates production work with code.**
-Bucharest, Romania · [LinkedIn](https://www.linkedin.com/in/dan-ichimescu-4257098/) · [Behance](https://www.behance.net/constantindan) · constantindan@gmail.com
+Bucharest, Romania · [LinkedIn](https://www.linkedin.com/in/dan-ichimescu-4257098/) · [Resize](https://resize.magic.re/)· [Behance](https://www.behance.net/constantindan) · constantindan@gmail.com
 
 I have worked in advertising and print production since 2016 (Hogarth Worldwide, INDG, Saatchi & Saatchi).
 Every piece of code in these repositories exists for the same reason: a repetitive task was eating
