@@ -7,18 +7,32 @@ I have worked in advertising and print production since 2016 (Hogarth Worldwide,
 Every piece of code in these repositories exists for the same reason: a repetitive task was eating
 hours of the day, so I wrote a tool to do it.
 
-**Two of these tools became the way my whole team worked.** Nobody asked for them: I saw the same
-manual steps repeated all day, automated them on my own initiative, and my colleagues adopted the result.
+## What sets me apart
+
+I am a career changer and a junior developer by title. What I bring is not typical for a recent
+graduate, nor for someone who has just finished a course:
+
+**1. I find the problem worth automating.** Twice I noticed a manual bottleneck that nobody had
+automated, built the tool on my own initiative, and my whole team adopted it. Nobody asked for either one.
 
 - At **Hogarth**, the [InDesign batch-resize script](https://github.com/kowalschi/indesign-batch-resize)
   (2020) — the team used it in production for over four years. [Case study →](https://resize.magic.re/)
 - At **INDG**, the [Board for Batch Command](https://github.com/kowalschi/Board-for-batch-command)
   desktop app (C#, 2021–2022) — used daily by the whole artwork team for years.
 
-I started scripting in **2019–2020, before AI coding assistants existed**, learning from the Adobe
-scripting reference, forums and Stack Overflow. Since 2024 I also work with AI tools (Claude, ChatGPT)
-as a pair programmer: I define the problem, design the workflow, test on real production files and
-keep the result maintainable.
+**2. My code has already been used in production.** These are not course exercises: colleagues relied
+on these tools every day, on real files and real deadlines. The resize script is now at version 23.
+
+**3. I learned to code before AI assistants.** My first scripts (2019–2020) and the C# app (2021–2022)
+came from documentation, forums and Stack Overflow. Today I use AI tools (Claude, ChatGPT) every day
+as a pair programmer, and I can read, debug and judge what they produce.
+
+**4. I know the business I write software for.** Over ten years in advertising and print production:
+I was the user of these tools before I was their author, so I know what a team will actually use.
+
+**5. Practice first, formal training second.** After years of self-taught scripting I completed a web
+development programme (HTML, CSS, JavaScript, React, Node.js) in February 2026 to put a solid base
+under the practice.
 
 ## What I build
 
