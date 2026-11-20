@@ -40,6 +40,7 @@ under the practice.
 |---|---|---|---|
 | [indesign-batch-resize](https://github.com/kowalschi/indesign-batch-resize) | Turns one key visual into hundreds of print/digital formats from an Excel list. Adopted by my whole team at Hogarth; 23 versions over 6 years. | ExtendScript (JavaScript), InDesign | 2020 → today |
 | [Board-for-batch-command](https://github.com/kowalschi/Board-for-batch-command) | Windows desktop app that builds and runs batch commands, moves files between server and workstation and watches for the output. Used daily by my whole team at INDG. | C#, WinForms, .NET | 2021–2022 |
+| [RecentPathMonitor](https://github.com/kowalschi/RecentPathMonitor) | Always-on-top Windows app that keeps a live list of the folders you work in, across Adobe apps, Office and Explorer; one click copies a path or opens the folder. | C#, WPF, .NET 8, ETW | 2026 |
 | [indesign-book-production](https://github.com/kowalschi/indesign-book-production) | Typesetting and proofreading pipeline for a 1,900-page scanned cookbook: 8,000+ tables formatted, 4,000+ corrections applied by script. | ExtendScript, Python, OCR | 2026 |
 | [photoshop-batch-resize](https://github.com/kowalschi/photoshop-batch-resize) | Declines master PSDs into any list of pixel sizes, picking the right master by aspect ratio. | ExtendScript, Photoshop | 2026 |
 | [indesign-scripts-collection](https://github.com/kowalschi/indesign-scripts-collection) | 90+ production scripts: e-book conversion, layout helpers, text export, catalogs. | ExtendScript | 2019 → today |
@@ -58,11 +59,12 @@ under the practice.
   whole artwork team's daily tool.
 - **2023–2025** — batch resize grows to multi-master, Excel-driven, Windows + macOS.
 - **2025–2026** — web development course (HTML, CSS, JavaScript, React, Node.js) at Scoala Informala de IT.
-- **2026** — AI-assisted projects: a book proofreading pipeline (Python + InDesign) and a full-stack job tracker.
+- **2026** — AI-assisted projects: a book proofreading pipeline (Python + InDesign), a full-stack job tracker
+  and a Windows app that tracks the folders I work in (C#, WPF).
 
 ## Skills
 
 JavaScript · ExtendScript (Adobe InDesign, Photoshop, Illustrator) · React · Node.js / Express · HTML · CSS ·
-C# / WinForms · Python (data and PDF processing) · Git · working with AI coding assistants
+C# (WinForms, WPF) · Python (data and PDF processing) · Git · working with AI coding assistants
 
 Print production, prepress, colour management, multi-format adaptation — I know the workflows I automate from the inside.
